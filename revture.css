@@ -3,12 +3,20 @@
   padding: 0;
 }
 
-h1{
+#title1{
   text-decoration: underline;
   text-align: center;
   font-family: sans-serif;
   font-weight: 600;
   font-size: 3em;
+}
+
+#register{
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 3em;
+  margin-left: 0.5em;
 }
 
 h3{
@@ -27,4 +35,14 @@ h2{
 p{
   padding-left: 3em;
   font-style: italic;
+}
+
+.row{
+  width: 70%;
+  margin: 2em 6em;
+}
+
+
+#reg{
+  margin-left: 30px;
 }
