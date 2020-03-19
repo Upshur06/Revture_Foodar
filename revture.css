@@ -45,4 +45,20 @@ p{
 
 #reg{
   margin-left: 30px;
+  margin-left: 1em;
 }
+
+ul{
+  display: inline;
+  float: right;
+  list-style-type: none;
+}
+
+li{
+  display: inline;
+  margin-right: 3em;
+}
+
+
+#footer{
+  display: inline-block;
